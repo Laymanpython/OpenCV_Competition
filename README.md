@@ -1,2 +1,2 @@
 # OpenCV_Competition
-2020 OpenCV Core AI
+2022 OpenCV Core AI
