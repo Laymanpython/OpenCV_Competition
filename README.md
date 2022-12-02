@@ -39,6 +39,12 @@
    然后通过C#进行命令行的调用
 
 
-note:由于github上传文件大小的原因，我们的代码中有一部分package无法上传上去（主要在C#中需要安装onnx推理有关的package），我们将完整的代码放在了百度网盘上
+note:
+
+由于github上传文件大小的原因，我们的代码中有一部分package无法上传上去（主要在C#中需要安装onnx推理有关的package），我们将完整的代码放在了百度网盘上
+
+
 完整的代码和项目展示视频在：链接：https://pan.baidu.com/s/1o_52Dn6GxFULBEgE_sqj0w  提取码：ejyv
+
+
 项目技术文档下载地址：待更新
