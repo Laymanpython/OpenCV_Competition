@@ -46,5 +46,3 @@ note:
 
 完整的代码和项目展示视频在：链接：https://pan.baidu.com/s/1o_52Dn6GxFULBEgE_sqj0w  提取码：ejyv
 
-
-项目技术文档下载地址：待更新
